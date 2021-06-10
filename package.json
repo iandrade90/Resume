@@ -1,0 +1,26 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "Web Resume",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ivan Andrade",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "boxicons": "^2.0.7",
+    "counterup": "^1.0.2",
+    "easing": "^1.2.1",
+    "isotope": "*",
+    "isotope-layout": "^3.0.6",
+    "jquery.easing": "^1.4.1",
+    "lite-server": "^2.6.1",
+    "owl.carousel": "^2.3.4",
+    "typed.js": "^2.0.12",
+    "venobox": "^1.9.3",
+    "waypoints": "^4.0.1"
+  }
+}
